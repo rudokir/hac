@@ -30,8 +30,8 @@ A simple yet powerful client-server system for controlling home appliances, buil
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/home-appliance-controller.git
-cd home-appliance-controller
+git clone https://github.com/rudokir/hac.git
+cd hac
 ```
 
 2. Build the project:
