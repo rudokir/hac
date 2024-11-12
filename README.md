@@ -92,8 +92,8 @@ Connect and send command:
 │   ├── sw_light.txt         # Light switch history
 │   └── sw_boiler.txt        # Boiler switch history
 ├── Source Files
-│   ├── SmartHomeServer.c    # Server implementation
-│   └── User.c               # Client implementation
+│   ├── smart_home_server.c    # Server implementation
+│   └── user.c               # Client implementation
 └── build.sh                 # Build script
 ```
 
