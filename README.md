@@ -118,17 +118,6 @@ Connect and send command:
 - Limited to binary state devices (on/off)
 - Backup system requires sufficient disk space
 
-## Future Enhancements 🚀
-
-- [ ] Add user authentication
-- [ ] Support for analog devices (dimmers, thermostats)
-- [ ] Web interface
-- [ ] Mobile app integration
-- [ ] MQTT support
-- [ ] SSL/TLS encryption
-- [ ] Configuration file support
-- [ ] Device auto-discovery
-
 ## License 📄
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
